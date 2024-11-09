@@ -1,0 +1,5 @@
+# add node_modules
+node_modules/
+
+# add .env
+.env
